@@ -1,0 +1,29 @@
+#body_container {
+	margin: 30px auto;
+}
+
+textarea {
+	min-height: 150px;
+	max-height: 250px;
+	min-width: 300px;
+	max-width: 400px;
+}
+
+td, th {
+	text-align: center;
+}
+
+.btn {
+	font-weight: bold;
+}
+
+.panel-title {
+	font-weight: bold;
+}
+
+.modal.modal-wide .modal-dialog {
+  width: 90%;
+}
+.modal-wide .modal-body {
+  overflow-y: auto;
+}
